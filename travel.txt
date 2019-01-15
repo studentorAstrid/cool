@@ -3,6 +3,7 @@ _____________
 - shoes
 - coat
 - camera
+-
 
 Picnic
 _____________
